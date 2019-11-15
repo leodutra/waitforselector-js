@@ -1,0 +1,29 @@
+{
+  "name": "waitforselector-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leodutra/waitforselector-js.git"
+  },
+  "keywords": [
+    "waitforselector",
+    "wait",
+    "selector",
+    "await",
+    "async",
+    "query",
+    "selector",
+    "puppeteer"
+  ],
+  "author": "Leo Dutra <leodutra.br@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leodutra/waitforselector-js/issues"
+  },
+  "homepage": "https://github.com/leodutra/waitforselector-js#readme"
+}
