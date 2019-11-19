@@ -1,2 +1,2 @@
 # waitForSelector - js
-Wait for element to appear. Similar to waitForSelector from Puppeteer
+Wait for element to appear. Zero dependency, browser-ready and similar to waitForSelector from Puppeteer.
